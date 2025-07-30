@@ -1,0 +1,12 @@
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 5
+names: [
+  'Deepslate Diamond Ore', 
+  'Deepslate Gold Ore', 
+  'Deepslate Iron Ore', 
+  'Deepslate RedstoneOre', 
+  'Iron Ore'
+]
